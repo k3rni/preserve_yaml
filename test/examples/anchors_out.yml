@@ -1,0 +1,9 @@
+---
+hash: &one
+  a: 55
+  b: 12
+int: 126
+str: LOREM IPSUM DOLOR
+target_hash: *one
+target_int: 123
+target_str: Lorem ipsum dolor

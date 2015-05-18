@@ -1,0 +1,12 @@
+---
+hash: &one
+  a: 10
+  b: 12
+
+int: &two 123
+str: &three "Lorem ipsum dolor"
+
+target_hash: *one
+target_int: *two
+target_str: *three
+
